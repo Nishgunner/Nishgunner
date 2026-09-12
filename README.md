@@ -31,4 +31,4 @@ Python · REST APIs · JSON · workflow automation
 
 **Reach me**
 
-[your email or LinkedIn]
+gunner.nishedh@gmail.com
